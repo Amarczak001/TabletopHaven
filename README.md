@@ -1,4 +1,5 @@
 # TabletopHaven
+A project created for university with friends. It is a web application, that lets you track your and your friends board games lists.
 
 **Instalation**<br />
 To install project:
