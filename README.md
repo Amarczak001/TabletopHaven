@@ -2,10 +2,10 @@
 A project created for university with friends. It is a web application, that lets you track your and your friends' board games lists.
 
 **My contribution**<br />
-Backend creation (in collaboration)
-Frontend creation (in collaboration)
-Project management
-Database design
+* Backend creation (in collaboration)
+* Frontend creation (in collaboration)
+* Project management
+* Database design
 
 
 **Instalation**<br />
